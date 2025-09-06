@@ -1,0 +1,4 @@
+"C:\WorkSpace\Valtr_A22B0107P\Valtr_A22B0107P\main.s"
+-I "C:\WorkSpace\Valtr_A22B0107P\Valtr_A22B0107P"
+--gdwarf2
+-o "C:\WorkSpace\Valtr_A22B0107P\Valtr_A22B0107P\Debug\main.o"

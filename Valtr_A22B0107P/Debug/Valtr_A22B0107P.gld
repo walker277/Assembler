@@ -1,0 +1,8 @@
+-T "C:\WorkSpace\Valtr_A22B0107P\Valtr_A22B0107P\Debug\Valtr_A22B0107P_Debug_auto.gsi"
+-T "C:\WorkSpace\Valtr_A22B0107P\Valtr_A22B0107P\Debug\Valtr_A22B0107P_input.tmp" 
+-L "c:\program files (x86)\renesas\hew\tools\kpit cummins\gnuh8-elf\v11.02\h8300-elf\lib\gcc\h8300-elf\4.5-GNUH8_v11.02\h8300s"
+-L "c:\program files (x86)\renesas\hew\tools\kpit cummins\gnuh8-elf\v11.02\h8300-elf\h8300-elf\lib\h8300s"
+-Map "C:\WorkSpace\Valtr_A22B0107P\Valtr_A22B0107P\Debug\Valtr_A22B0107P.map"
+-( -l "gcc" -l "optc" -l "optm" -)
+-o "C:\WorkSpace\Valtr_A22B0107P\Valtr_A22B0107P\Debug\Valtr_A22B0107P.x"
+-e _start
